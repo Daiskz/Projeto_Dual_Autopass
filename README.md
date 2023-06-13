@@ -29,6 +29,7 @@ Nosso projeto de redesign da compra de bilhetes e QR code de metrô tem como obj
 - [x] **Protótipos de Baixa Fidelidade**
 - [x] **Protótipos de Alta Fidelidade**
 - [x] **Relatório analítico das heurísticas de Nielsen**
+- [x] **Aplicação Web**
 
 # Tecnologias Usadas
 
