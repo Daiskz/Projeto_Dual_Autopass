@@ -49,6 +49,7 @@ Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o no
 - [Paulo Henrique Chi - RA: 8222242190]
 - [Lucas Humberto de Souza - RA: 79930-2019-2]
 - [Michel Ribeiro Da Conceição - RA: 7221110628]
+- [Vitor Soares Lourenço - RA: 1222010637]
 
 # Licença
 
